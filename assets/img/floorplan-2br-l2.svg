@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="959" height="1100" viewBox="0 0 959 1100" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Village two-bedroom townhouse upper-level floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="19" y="27" width="916" height="1042"/>
+<path class="w" d="M148,18 V36 M148,405 V446 M148,1062 V1078 M161,18 V36 M161,408 V446 M161,1062 V1078 M188,18 V36 M188,603 V1078 M252,18 V36 M252,274 V292 M252,406 V447 M252,1059 V1078 M271,19 V294 M271,402 V423 M271,1059 V1078 M383,19 V51 M383,137 V342 M383,471 V622 M508,18 V36 M508,483 V503 M508,799 V838 M508,1060 V1077 M631,18 V36 M631,256 V299 M631,483 V503 M631,1059 V1078 M11,158 H26 M259,158 H390 M928,158 H941 M11,283 H98 M211,283 H289 M355,283 H391 M928,283 H941 M12,493 H26 M375,493 H946 M13,612 H26 M180,612 H236 M344,612 H392 M928,612 H941"/>
+<path class="d" d="M148,399 V415 M161,145 V168 M188,167 V188 M188,399 V416 M271,425 V464 M508,799 V815 M631,273 V298 M631,799 V824 M41,158 H55 M100,158 H124 M147,158 H179 M193,158 H221 M638,283 H659 M690,283 H706 M711,283 H728 M750,283 H778"/>
+<path class="win" d="M707,22 H833 M707,27 H833 M707,32 H833 M707,20 V34 M833,20 V34"/>
+<path class="win" d="M344,1064 H467 M344,1069 H467 M344,1074 H467 M344,1062 V1076 M467,1062 V1076"/>
+<path class="win" d="M692,1064 H817 M692,1069 H817 M692,1074 H817 M692,1062 V1076 M817,1062 V1076"/>
+<path class="wo" d="M19,27 H707 M833,27 H935 V1069 H817 M692,1069 H467 M344,1069 H19 V27"/>
+<text class="cl" x="130" y="165">Bathroom</text>
+<text class="sm" x="335" y="85">Closet</text>
+<text class="sm" x="335" y="225">Closet</text>
+<text class="rm" x="175" y="420">Hallway</text>
+<text class="sm" x="110" y="790">Stairwell</text>
+<text class="rm" x="700" y="290">Bedroom</text>
+<text class="rm" x="610" y="810">Bedroom</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="958" height="1600" viewBox="0 0 958 1600" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Village two-bedroom townhouse main-level floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="33" y="38" width="897" height="1533"/>
+<path class="w" d="M590,403 V438 M590,800 V816 M666,410 V455 M666,800 V816 M801,404 V456 M801,800 V816 M21,808 H55 M62,808 H256 M412,808 H917 M923,808 H941 M21,946 H44 M46,946 H271 M21,962 H35 M54,962 H137 M175,962 H254"/>
+<path class="d" d="M590,402 V443 M801,395 V410 M801,1581 V1596 M51,946 H67 M259,946 H282 M139,962 H166 M251,962 H268"/>
+<path class="win" d="M209,33 H383 M209,38 H383 M209,43 H383 M209,31 V45 M383,31 V45"/>
+<path class="win" d="M719,33 H870 M719,38 H870 M719,43 H870 M719,31 V45 M870,31 V45"/>
+<path class="arc" d="M51,1571 V1210 M51,1210 A361,361 0 0 1 412,1571"/>
+<path class="arc" d="M647,1571 V1425 M647,1425 A146,146 0 0 1 793,1571"/>
+<path class="wo" d="M33,38 H209 M383,38 H719 M870,38 H930 V1571 H793 M647,1571 H412 M51,1571 H33 V38"/>
+<text class="rm" x="553" y="422">Kitchen/Dining</text>
+<text class="rm" x="582" y="1105">Living Room</text>
+<text class="sm" x="167" y="895">Closet</text>
+<text class="sm" x="145" y="1207">Stairwell</text>
+</svg>
