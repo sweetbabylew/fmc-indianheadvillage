@@ -11,19 +11,28 @@
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="19" y="31" width="1423" height="1278"/>
-<path class="w" d="M284,741 V1316 M414,20 V353 M588,20 V59 M588,165 V416 M588,574 V728 M402,184 H595 M17,350 H147 M322,350 H440 M543,350 H598 M577,603 H1431 M275,741 H294 M297,741 H362 M525,741 H595"/>
-<path class="d" d="M584,59 V165 M592,59 V165 M584,416 V574 M592,416 V574 M147,346 H322 M147,354 H322 M440,346 H543 M440,354 H543 M362,737 H525 M362,745 H525"/>
+<rect class="fp" x="26" y="31" width="1410" height="1278"/>
+<path class="w" d="M414,190 L588,190 M26,344 L147,344 M322,344 L440,344 M542,344 L588,344 M588,603 L1436,603 M360,747 L284,747 L284,1309 M525,747 L588,747 L588,574 M414,31 L414,344 M588,31 L588,59 M588,165 L588,416"/>
 <path class="win" d="M1083,26 H1280 M1083,31 H1280 M1083,36 H1280 M1083,24 V38 M1280,24 V38"/>
 <path class="win" d="M521,1304 H717 M521,1309 H717 M521,1314 H717 M521,1302 V1316 M717,1302 V1316"/>
 <path class="win" d="M1060,1304 H1256 M1060,1309 H1256 M1060,1314 H1256 M1060,1302 V1316 M1256,1302 V1316"/>
-<path class="st" d="M22,742 V1288 M278,742 V1288 M22,746 H278 M22,799 H278 M22,848 H278 M22,900 H278 M22,951 H278 M22,1002 H278 M22,1051 H278 M22,1103 H278 M22,1152 H278 M22,1205 H278 M22,1257 H278"/>
-<path class="wo" d="M19,31 H1083 M1280,31 H1442 V1309 H1256 M1060,1309 H717 M521,1309 H19 V31"/>
+<path class="st" d="M26,742 V1288 M284,742 V1288 M26,746 H284 M26,799 H284 M26,848 H284 M26,900 H284 M26,951 H284 M26,1002 H284 M26,1051 H284 M26,1103 H284 M26,1152 H284 M26,1205 H284 M26,1257 H284"/>
+<path class="d" d="M575.0,59 V165"/>
+<path class="d" d="M596.0,59 V165"/>
+<path class="d" d="M575.0,416 V574"/>
+<path class="d" d="M596.0,416 V574"/>
+<path class="d" d="M147,334.0 H322"/>
+<path class="d" d="M147,355.0 H322"/>
+<path class="d" d="M440,334.0 H542"/>
+<path class="d" d="M440,355.0 H542"/>
+<path class="d" d="M360,736.0 H525"/>
+<path class="d" d="M360,757.0 H525"/>
+<path class="wo" d="M26,31 H1083 M1280,31 H1436 V1309 H1256 M1060,1309 H717 M521,1309 H26 V31 H36"/>
 <text class="cl" x="189" y="198">Bathroom</text>
 <text class="sm" x="495" y="100">Closet</text>
 <text class="sm" x="500" y="285">Closet</text>
 <text class="rm" x="282" y="535">Hallway</text>
 <text class="rm" x="1100" y="365">Bedroom</text>
 <text class="rm" x="921" y="1020">Bedroom</text>
-<text class="sm" x="153" y="962">Stairwell</text>
+<text class="sm" x="153" y="980">Stairwell</text>
 </svg>
